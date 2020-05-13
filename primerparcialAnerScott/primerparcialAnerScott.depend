@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1589381718 source:c:\users\fede\desktop\programacion1 git\trabajo_clases\primerparcialanerscott\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dataWarehouse.h"
+	"validacion.h"
+
+1589327667 source:c:\users\fede\desktop\programacion1 git\trabajo_clases\primerparcialanerscott\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+
+1589333218 c:\users\fede\desktop\programacion1 git\trabajo_clases\primerparcialanerscott\validacion.h
+
+1589381188 c:\users\fede\desktop\programacion1 git\trabajo_clases\primerparcialanerscott\datawarehouse.h
+
